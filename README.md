@@ -1,19 +1,27 @@
-### Sobre  
 
-Objetivo:
 
-Atuar na área com de tecnólogia; com análise e/ou desenvolvimento de sistemas web, e desktop, atuando como __Desenvolvedora-Junior__ .
+### Desenvolvedor de Software atuando : Voluntaria atuando como Social Media:
 
-Conhecimentos em:
+ - Compartilhar conhecimentos e experiências relevantes para auxiliar pessoas que estão iniciando na área de TI a crescerem e alcançarem seus objetivos profissionais.
+ - Criar conteúdo informativo e inspirador, fornecendo dicas, tutoriais e orientações práticas para ajudar os iniciantes a se desenvolverem na área.
+ - Estabelecer conexões e networking com profissionais de TI, criando uma rede de apoio e oportunidades de colaboração para aqueles que estão começando.
+ - Promover discussões construtivas e interativas, incentivando o engajamento e a troca de experiências entre os membros da comunidade.
+ - Utilizar o LinkedIn como plataforma para compartilhar recursos, cursos online e eventos relevantes que possam contribuir para o crescimento profissional dos       
+   iniciantes em TI.
+### Competência a ser usado nesse primeiro momento:
+ Ferramentas como:
+  - Canvas;
+  - Trello;
+### Esse projeto tem como trazer aos voluntarios:
+  Um crescimento nas softskils:
+   - Liderança;
+   - Trabalhar em grupo;
+   - Figma
 
-- Linguagens de Programação: HTML(Linguagem de Marcação de HiperTexto), CSS(Folha de Estilo em Cascatas), JavaScript, JavaEE, Servles, Linguagem SQL.
+Competências: Desenvolvimento de Software: HTML CSS JavaScript usando Framework Vue.js;
 
-- Servidores Web / Aplicação: Apache TOMCAT.
 
-- Softwares e Ferramentas de Desenvolvimento: Eclipse IDE, Microsoft Visual Studio, MySQL Workbench.
 
-- Banco de Dados: MYSQL, MSSQL Server.
 
-- __Análise de Sistemas__: Levantamento de Requisitos, Elaboração de documentação de Use Case e Diagramas UML, Modelagem de Banco de Dados.
+   
 
-- Sistemas Operacionais: Windows, uso de Metodologias Agil.
